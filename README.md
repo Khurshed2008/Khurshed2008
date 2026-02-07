@@ -1,35 +1,57 @@
-# 👋 Привет, я Khurshed!
+# Hi there 👋 I'm Khurshed
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+💻 Software Developer | 🚀 Tech Enthusiast | 🌍 Open Source Lover  
 
-Компьютерный инженер из **Душанбе, Таджикистан** 🚀  
-Люблю Python, системное программирование, сети и автоматизацию.  
-Строю проекты и учусь каждый день!
+---
 
-### 🛠️ Мои навыки и инструменты
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <!-- Добавь свои: ищи на https://shields.io -->
-</p>
+## 👨‍💻 About Me
 
-### 📊 Моя статистика GitHub
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Khurshed2008&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+- 🔭 I’m currently working on personal and open-source projects  
+- 🌱 I’m constantly learning new technologies  
+- 💡 I enjoy building clean, scalable, and user-friendly applications  
+- 📫 How to reach me: **your.email@example.com**
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khurshed2008&theme=dark&hide_border=true" alt="Streak Stats" />
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khurshed2008&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+## 🛠️ Tech Stack
 
-### 🔥 Текущий стрик и достижения
-- Текущий стрик: делай коммиты каждый день, чтобы росло! 🔥
-- Добавляй проекты — скоро будет как на скриншоте.
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### ☕ Поддержать меня
-Если проекты понравились — можешь угостить чаем!  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/твой_ник)  
-(Зарегистрируйся на buymeacoffee.com, если хочешь кнопку)
+### Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-Спасибо, что заглянул! ⭐
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+---
+
+## 🚀 Featured Projects
+
+- 🔗 **Project Name** — short description  
+- 🔗 **Project Name** — short description  
+- 🔗 **Project Name** — short description  
+
+---
+
+## ☕ Support Me
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF813F?style=flat&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/YOUR_USERNAME)
+
+---
+
+⭐️ From Saburov Khurshed
