@@ -39,7 +39,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔗 **system_monitor** — short description  
+- 🔗 **system_monitor** — Basic System Resource Monitoring Tool in Python  
 - 🔗 **Project Name** — short description  
 - 🔗 **Project Name** — short description  
 
