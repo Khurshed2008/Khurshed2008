@@ -42,7 +42,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔗 **Project Name** — short description  
+- 🔗 **system_monitor** — short description  
 - 🔗 **Project Name** — short description  
 - 🔗 **Project Name** — short description  
 
