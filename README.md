@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on personal and open-source projects  
 - 🌱 I’m constantly learning new technologies  
 - 💡 I enjoy building clean, scalable, and user-friendly applications  
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: k2304069@gmail.com
 
 ---
 
